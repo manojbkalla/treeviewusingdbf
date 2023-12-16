@@ -1,0 +1,1 @@
+MESSAGEBOX("Invoice Register is Selected",0+64,"Manoj Kalla VFP Training")
